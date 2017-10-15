@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bots3d.png" />
+  <img src="bots.png" />
 </p>
 <br>
 <br>
@@ -150,12 +150,3 @@ Table of Contents
 * [ChatbotConf](https://chatbotconf.com/)
 * [Talkabot](https://talkabot.ai/)
 
-## Developers
-* [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
-* [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
-
-## License
-
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.
