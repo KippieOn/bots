@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="bots.png" />
+  <img src="bots.png" style="width: 500px;" />
 </p>
 <br>
 <br>
